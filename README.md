@@ -7,4 +7,4 @@
 4. open and run SIAK-login.jmx with Jmeter
 
 
-P.S. change "username" and "password" with yours !
+P.S. change "username" and "password" in login-cas.csv with yours !
